@@ -23,6 +23,6 @@ Credit goes to clever cloud and its developers (notably Geoffroy Couprie) and fo
 Developed by Mohamed Rahji and Fabien Imbault.
 
 
-## todo list
+## Todo
 - [ ] support sealed biscuit, depends on [issue](https://github.com/CleverCloud/biscuit-rust/issues/12)
 
