@@ -250,11 +250,9 @@ class TokenGen extends React.Component {
                 <div className="container-fluid">
                     <section className="banner-biscuit mr-2">
                         <div className="container header">
+                            <br /><br />
+                            <a className="hero" href="/"><img src={require('./img/biscuitsecHero.png')} alt="hero" /></a>
                             <br />
-                            <a className="logo" href="/"><img src={require('./img/biscuitsec_logo.svg')} alt="logo" /></a>
-                            <br />
-                            <a className="logo" href="/"><img src={require('./img/biscuitsec.svg')} alt="logo" /></a>
-                            <h1 > playground </h1>
 
                             {/* <p>Biscuit Web Tokens are an open, industry standard RFC xxxx method for representing claims securely between
             two parties.</p>

@@ -24,7 +24,7 @@ class NavBar extends Component {
                
             <nav className="navbar navbar-expand-lg navbar-dark fixed-top">
                     <a aria-current="page" className="navbar navbar-light  active" href="/"><img className="navbar_logo img-fluid"
-                        src={require('./img/biscuitsec_logo5.svg')} alt="open.acert.io" /></a>
+                        src={require('./img/biscuitsecLogo.svg')} alt="biscuitsec, powered by acert.io" /></a>
                     
                     <button onClick={this.toggleNavbar} className={`${classTwo}`} type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon" />
@@ -58,62 +58,3 @@ class NavBar extends Component {
     }
 }
 export default NavBar;
-// function NavBar() {
-
-//     return (
-//         // <nav className="navbar navbar-expand-lg navbar-light==  fixed-top " role="navigation">
-//             <a aria-current="page" className="navbar navbar-light  active" href="/"><img className="navbar_logo img-fluid"
-//                 src={require('./img/biscuitsec_logo5.svg')} alt="open.acert.io" /></a>
-
-//         //     {/* <a className="navbar-brand1" >
-//         //         <Link to="/debugger">Debugger</Link>
-//         //     </a> */}
-//         //     <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
-//         //         aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-//         //         <span className="navbar-toggler-icon"></span>
-//         //     </button>
-
-//         //     <div className="collapse navbar-collapse in" id="navbarSupportedContent">
-//                 <ul className="navbar-nav mr-auto">
-//                     <li className="nav-item navbar-brand active">
-//                         <Link to="/debugger">Debugger</Link>
-
-//                     </li>
-//                     <li className="nav-item navbar-brand active">
-//                         <Link to="/documentation">Documentation</Link>
-//                     </li>
-//                     <li className="nav-item navbar-brand active">
-//                         <Link to="/announcement">Announcement</Link>
-//                     </li>
-//                 </ul>
-//         //     </div>
-//         // </nav>
-//         // <nav className="navbar  navbar-expand-lg navbar-default  navrbar-dark fixed-top navbar-expand-sm  p-0">
-
-
-//         //     <div className="container">
-
-//         //         <button className="navbar-toggler" data-toggle="collapse" data-target="#navbarNav"><span className="navbar-toggler-icon"></span> </button>
-//         //         <div className="collapse navbar-collapse" id="navbarNav">
-//         //             { <ul className="navbar-nav">
-//         //                 <li className="nav-item navbar-brand active">
-//         //                     <Link to="/debugger">Debugger</Link>
-
-//         //                 </li>
-//         //                 <li className="nav-item navbar-brand active">
-//         //                     <Link to="/documentation">Documentation</Link>
-//         //                 </li>
-//         //                 <li className="nav-item navbar-brand active">
-//         //                     <Link to="/announcement">Announcement</Link>
-//         //                 </li>
-//         //             </ul>
-//         //              }
-//         //         </div>
-//         //     </div>
-//         // </nav>
-
-
-//     );
-
-// }
-// export default NavBar;

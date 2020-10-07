@@ -199,9 +199,9 @@ small {
 }
 
 .footer {
-  border-top: 1px solid #dae0e5;
   color: white;
   background: #000;
+  font-size: 22px;
 }
 
 .warning {
