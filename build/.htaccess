@@ -1,2 +1,0 @@
-AddType application/wasm module.wasm
-AddType application/wasm wasm
