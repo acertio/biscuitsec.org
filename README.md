@@ -14,7 +14,7 @@ Use npm to install the required packages and start the server. Please follow the
 ## Use cases
 Our base scenario is a [car rental agency](./examples/car_rental_agency.md)
 
-We also implemented some examples which might feel familiar in everyday life, such as [building management](https://github.com/acertio/ex_biscuit_xstate).
+We implemented other self-contained examples, such as [xstate](https://github.com/acertio/ex_biscuit_xstate).
 
 ## Credit
 
