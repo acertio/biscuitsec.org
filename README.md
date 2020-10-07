@@ -14,8 +14,7 @@ Use npm to install the required packages and start the server. Please follow the
 
 
 ## Deploy
-The playground is deployed on netlify, and available at https://biscuitsec.org
--> TOFIX
+The playground is deployed on netlify (using build command CI= npm run build), and available at https://www.biscuitsec.org
 
 
 ## Use cases
@@ -33,6 +32,7 @@ Developed by Mohamed Rahji and Fabien Imbault.
 
 ## Todo
 - [ ] support sealed biscuit, depends on [issue](https://github.com/CleverCloud/biscuit-rust/issues/12)
-- [ ] clean files and provide detailed documentation (look for temporary links on https://www.w3schools.com)
+- [ ] clean files, check latest npm audit and remove warnings
+- [ ] provide detailed documentation (look for temporary links on https://www.w3schools.com)
 
 
