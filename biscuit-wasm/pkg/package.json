@@ -1,0 +1,16 @@
+{
+  "name": "biscuit-wasm",
+  "collaborators": [
+    "Alessio Coltellacci <alessio.coltellacci@clever-cloud.com>",
+    "Geoffroy Couprie <geoffroy.couprie@clever-cloud.com>"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "biscuit_wasm_bg.wasm",
+    "biscuit_wasm.js",
+    "biscuit_wasm.d.ts"
+  ],
+  "module": "biscuit_wasm.js",
+  "types": "biscuit_wasm.d.ts",
+  "sideEffects": false
+}
