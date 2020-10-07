@@ -1,5 +1,5 @@
 # biscuitsec.org
-This is a playground for biscuit tokens. We developed this site to ease the understanding and usage of biscuit tokens. 
+This is a playground for biscuit tokens. We developed this site to ease the understanding and usage of biscuit tokens.
 
 The goal is to provide an equivalent of jwt.io (as opensource, as we think it's valuable for devs to better understand how it works). The user interface also helps when you just want to generate, attenuate or verify a token. 
 
@@ -27,9 +27,9 @@ We implemented other self-contained examples, such as [xstate](https://github.co
 
 ## Credit
 
-Credit goes to clever cloud and its developers (notably Geoffroy Couprie) and for the [core library](https://github.com/CleverCloud/biscuit).
+Credit goes to clever cloud and its developers (notably Geoffroy Couprie) for the [core library](https://github.com/CleverCloud/biscuit). 
 
-Developed by Mohamed Rahji and Fabien Imbault.
+Playground was developed by Mohamed Rahji and Fabien Imbault.
 
 
 ## Todo
