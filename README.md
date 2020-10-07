@@ -7,9 +7,9 @@ The site is made using react, wasm (using wasm-pack-template) and the biscuit ru
 
 Use npm to install the required packages and start the server. Please follow these instructions to launch the server
 
-'npm install'
+`npm install`
 
-'npm start'
+`npm start`
 
 ## Use cases
 Our base scenario is a [car rental agency](./examples/car_rental_agency.md)
