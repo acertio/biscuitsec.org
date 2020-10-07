@@ -1,7 +1,7 @@
 # biscuitsec.org
 This website a playground for biscuit tokens. We developed this site to ease the understanding and usage of biscuit tokens (in the spirit of jwt.io).
 
-The site is made using react, wasm (using wasm-pack-template) and the biscuit rust library.
+The site is made using react, wasm and the biscuit rust library.
 
 ## Install
 
