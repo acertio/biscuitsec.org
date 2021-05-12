@@ -261,9 +261,9 @@ class TokenGen extends React.Component {
                     </section>
                     <div className="warning">
                         <div className="text-center">
-                            <strong>Biscuitsec :</strong>
+                            <strong>Biscuitsec:</strong>
 
-                        Learn how the biscuit token works by interacting with it. For developers, the code of the application is available on our github
+                        Learn how the biscuit token works by interacting with it. For developers, the code of the application is available on <a href="https://github.com/acertio/biscuitsec.org">GitHub</a>.
                         </div>
                     </div>                    <h1 className="mr-5 text-center">Token Example </h1>
 
